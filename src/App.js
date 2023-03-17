@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Does GitHub Actions still work?</p>
       </header>
     </div>
   );

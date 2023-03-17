@@ -1,5 +1,6 @@
 {
   "name": "assignment2deploy",
+  "homepage":"https://morganday.ca/MULT214_A2/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
